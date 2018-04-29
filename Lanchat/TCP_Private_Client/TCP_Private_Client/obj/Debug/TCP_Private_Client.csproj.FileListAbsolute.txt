@@ -1,0 +1,9 @@
+E:\New folder\SourceDoAn\C#\New folder\TCP_Private_Client\TCP_Private_Client\obj\Debug\TCP_Private_Client.exe
+E:\New folder\SourceDoAn\C#\New folder\TCP_Private_Client\TCP_Private_Client\obj\Debug\TCP_Private_Client.pdb
+E:\New folder\SourceDoAn\C#\New folder\TCP_Private_Client\TCP_Private_Client\bin\Debug\TCP_Private_Client.exe
+E:\New folder\SourceDoAn\C#\New folder\TCP_Private_Client\TCP_Private_Client\bin\Debug\TCP_Private_Client.pdb
+E:\New folder\SourceDoAn\C#\New folder\TCP_Private_Client\TCP_Private_Client\obj\Debug\TCP_Private_Client.Form_About.resources
+E:\New folder\SourceDoAn\C#\New folder\TCP_Private_Client\TCP_Private_Client\obj\Debug\TCP_Private_Client.Form_Login.resources
+E:\New folder\SourceDoAn\C#\New folder\TCP_Private_Client\TCP_Private_Client\obj\Debug\TCP_Private_Client.Form_Main.resources
+E:\New folder\SourceDoAn\C#\New folder\TCP_Private_Client\TCP_Private_Client\obj\Debug\TCP_Private_Client.Properties.Resources.resources
+E:\New folder\SourceDoAn\C#\New folder\TCP_Private_Client\TCP_Private_Client\obj\Debug\TCP_Private_Client.csproj.GenerateResource.Cache
